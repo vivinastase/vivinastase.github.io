@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p><b>Puppets of a Digital Brain</b> is (will be soon!) a short(-ish ... it keeps growing somehow ...) film that explains the technology behind current generative AI systems, in particular Large Language Models (LLMs) in an accessible and attractive way, and explores and explains the good and bad sides of current AI technologies. The goal is to make this information accessible to the wider public, such that they are better informed to hopefully make more informed choices when using such systems, and shape the development of future AI systems that respect ethical principles in  development, training and usage.</p>
+<p><b>Puppets of a Digital Brain</b> is (is!!!!) a film that explains the technology behind current generative AI systems, in particular Large Language Models (LLMs) in an accessible and attractive way, and explores and explains the good and bad sides of current AI technologies. The goal is to make this information accessible to the wider public, such that they are better informed to hopefully make more informed choices when using such systems, and shape the development of future AI systems that respect ethical principles in  development, training and usage.</p>
 
 <p>Check our the <a href="https://www.youtube.com/watch?v=1wLQ2iJlL3I"><b>trailer!</b></a></p>
 
