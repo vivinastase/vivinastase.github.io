@@ -34,7 +34,7 @@ social: false  # includes social icons at the bottom of the page
     </div>
     <div class="col-sm mt-3 mt-md-0">
       <a href="https://casacartii.ro/editura/carte/povestea-unui-cuvant/">
-        !{Povestea unui cuvant](https://vivinastase.github.io/assets/img/TSoaW_cover_ro.png)
+        ![Povestea unui cuvant](https://vivinastase.github.io/assets/img/TSoaW_cover_ro.png)
       </a>
       The book contains etymologies for about 50 frequently used Romanian words -- in Romanian. It is not quite a translation of the English version, the list of words is a bit different. If you are curious, here is the <a href="assets/img/TSoaW_index_ro.png">index</a>, and <a href="assets/pdf/PovesteaUnuiCuvant_sample.pdf">a few pages</a>.
     </div>
