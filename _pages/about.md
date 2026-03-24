@@ -6,7 +6,7 @@ subtitle: CLCL group, University of Geneva / NCCR Evolving language
 
 profile:
   align: right
-  image: vivi_Smiley.jpg
+  image: ![me](./assets/img/vivi_Smiley.jpg)
   address: >
     <p>CLCL Group</p>
     <p>Idiap research institute</p>
@@ -28,7 +28,7 @@ social: false  # includes social icons at the bottom of the page
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
       <a href="https://www.amazon.com/Story-Word-Rada-Mihalcea/dp/1648715281/ref=sr_1_1?crid=2ULW21J34UXRN&keywords=the+story+of+a+word+vivi+nastase&qid=1657111399&sprefix=the+story+of+a+word+vivi+nastase%2Caps%2C133&sr=8-1">
-        {% include figure.html path="/assets/img/TSoaW_cover.png" title="The Story of a Word" class="img-fluid rounded z-depth-1"  %}
+        ![The Story of a Word](./assets/img/TSoaW_cover.png)
       </a>
      The book contains etymologies for about 50 frequently used English words, to illustrate how creative people are, in this case about language, and how interesting and sometimes funny the stories of words are. If you are curious, here is the <a href="assets/img/TSoaW_index.png">index</a>, and <a href="assets/pdf/The%20Story%20of%20a%20Word%20-%20Sample%20Pages.ss.pdf">a few pages</a>.
     </div>
