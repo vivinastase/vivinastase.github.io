@@ -6,7 +6,7 @@ subtitle: CLCL group, University of Geneva / NCCR Evolving language
 
 profile:
   align: right
-  image: ![me](./assets/img/vivi_Smiley.jpg)
+  image: ![me](assets/img/vivi_Smiley.jpg)
   address: >
     <p>CLCL Group</p>
     <p>Idiap research institute</p>
