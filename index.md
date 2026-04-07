@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: CLCL group, University of Geneva / NCCR Evolving language
+subtitle: 
 
 profile:
   align: right
-  image:  <img src="assets/img/vivi_Smiley.jpg" alt="self portrait, cca 2014" width="200">
+  image: vivi_Smiley.jpg
   address: >
     <p>CLCL Group</p>
     <p>Idiap research institute</p>
