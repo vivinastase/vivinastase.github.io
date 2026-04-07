@@ -6,7 +6,7 @@ subtitle: CLCL group, University of Geneva / NCCR Evolving language
 
 profile:
   align: right
-  image:  <img src="https://github.com/vivinastase/vivinastase.github.io/blob/master/assets/img/vivi_Smiley.jpg" alt="self portrait" width="200">
+  image:  <img src="https://github.com/vivinastase/vivinastase.github.io/blob/master/assets/img/vivi_Smiley.jpg" alt="self portrait, cca 2014" width="200">
   address: >
     <p>CLCL Group</p>
     <p>Idiap research institute</p>
